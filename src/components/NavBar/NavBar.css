@@ -1,0 +1,24 @@
+.links{
+    display: flex;
+    flex-direction: row;
+   
+    margin: 1rem;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 2rem;
+    width: 100%;
+    z-index: 1000;
+    background-color: blue;
+
+}
+.link1{
+    margin-right: 1rem;
+}
+.link{
+    color: white;
+    display: flex;
+    align-items: center;
+   
+
+}
